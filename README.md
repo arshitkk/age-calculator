@@ -1,6 +1,3 @@
-Here’s a simple README for your age calculator project:
-
----
 
 # Age Calculator
 
